@@ -27,6 +27,8 @@ This commands includes
 <BR>
 
 ## Output
+![image](https://github.com/ssonuma/4.Execution_of_NetworkCommends/assets/150653312/53b10397-248d-4f5f-96d6-06c122f097cd)
+![image](https://github.com/ssonuma/4.Execution_of_NetworkCommends/assets/150653312/683ed1b8-3a6c-4d25-a802-396bc053ad76)
 
 ## Result
 Thus Execution of Network commands Performed 
